@@ -7,7 +7,7 @@
 ;id
 ;netstat -a;
 ;id;
-|id
+|idd
 |/usr/bin/id
 |id|
 |/usr/bin/id|
